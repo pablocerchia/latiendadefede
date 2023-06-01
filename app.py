@@ -148,7 +148,14 @@ with tabs[0]:
 
         df_groupedd = df2.groupby('month')['total'].sum().reset_index() 
         df_groupedd['variacion_ingreso'] = df_groupedd['total'].pct_change() * 100 
+        fig_growthh = px.bar(df_groupedd, x='month', y='variacion_ingreso', text_auto=True, labels={'month': 'Mes'},
+                    title='Variación mensual de los ingresos')
 
+        fig_growthh.update_traces(textfont_size=24, textangle=0, textposition="outside", cliponaxis=False, hovertemplate='Mes: %{x}<br>Variación del ingreso (%): %{y:.2f}', texttemplate='%{y:.2f}')
+        fig_growthh.update_xaxes(showgrid=False, ticklabelmode="period", dtick="M1", tickformat="%b\n%Y")
+        fig_growthh.update_layout(bargap=0.1, xaxis_title='Fecha', yaxis_title='Variación del ingreso (%)')
+        st.plotly_chart(fig_growthh)
+        
         # Bar chart top 5 articulos
         df_top5_art = df_articulos2
         df_top5_art_top = df_top5_art.groupby('producto').agg({"cant_prod" : "sum"}).reset_index().sort_values(by='cant_prod', ascending=True)[-5:]
