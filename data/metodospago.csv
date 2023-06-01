@@ -1,0 +1,1312 @@
+id,notaventa,monto,tipo
+2,21553,62500,Efectivo
+3,21555,81400,"Mercado Libre"
+4,21556,63000,"Mercado Libre"
+5,21558,197925,Cheque
+6,21558,5000,Efectivo
+7,21563,306000,Cheque
+8,21564,27000,Efectivo
+9,21565,173000,"Contra Entrega"
+10,21566,19050,"Contra Entrega"
+11,21567,209160,Mercadopago
+12,21567,2500,"Contra Entrega"
+13,21568,157145,"Contra Entrega"
+14,21569,37500,"Mercado Libre"
+15,21570,85500,Efectivo
+16,21571,29500,"Contra Entrega"
+17,21572,180.7,"Transferencia Bancaria"
+18,21573,139500,Tarjeta
+19,21573,118000,"Contra Entrega"
+20,21574,127696,"Mercado Libre"
+21,21575,48450,"Mercado Libre"
+22,21576,510000,Cheque
+23,21577,265000,Efectivo
+24,21578,147000,Efectivo
+25,21580,0,Cheque
+26,21581,233000,Mercadopago
+27,21582,16432,Efectivo
+28,21583,113400,Efectivo
+29,21584,252000,Mercadopago
+30,21585,50598,"Mercado Libre"
+31,21586,50598,"Mercado Libre"
+32,21587,200000,Efectivo
+33,21588,3779,"Mercado Libre"
+34,21589,1341,Efectivo
+35,21590,280181,Tarjeta
+36,21591,162900,"Transferencia Bancaria"
+37,21592,50598,"Mercado Libre"
+38,21593,50598,"Mercado Libre"
+39,21594,50598,"Mercado Libre"
+40,21595,48450,"Mercado Libre"
+41,21596,120000,Efectivo
+42,21597,180180,"Mercado Libre"
+43,21597,8000,"Contra Entrega"
+44,21598,5300,Mercadopago
+45,21599,0,Financiado
+46,21599,0,Financiado
+47,21599,0,Financiado
+48,21600,466295,ECheck
+49,21601,115500,Efectivo
+50,21602,48990,Efectivo
+51,21603,294700,Efectivo
+52,21604,11102,"Mercado Libre"
+53,21605,3779,"Mercado Libre"
+54,21606,11102,"Mercado Libre"
+55,21607,322000,"Contra Entrega"
+56,21608,78000,Efectivo
+57,21609,679400,Cheque
+58,21610,1,Efectivo
+59,21611,679000,Cheque
+60,21613,67980,"Transferencia Bancaria"
+61,21614,19050,Efectivo
+62,21615,206930,"Transferencia Bancaria"
+63,21616,22708,"Mercado Libre"
+64,21617,260150,Tarjeta
+65,21618,20950,Efectivo
+66,21619,223242,"Mercado Libre"
+67,21620,168000,Mercadopago
+68,21621,356700,Efectivo
+69,21622,63580,Efectivo
+70,21623,50000,Mercadopago
+71,21623,427000,Efectivo
+72,21624,0,Financiado
+73,21624,101877,Efectivo
+74,21625,171300,Efectivo
+75,21626,1056000,"Transferencia Bancaria"
+76,21627,361150,Tarjeta
+77,21628,3852,"Mercado Libre"
+78,21629,1312000,"Transferencia Bancaria"
+79,21630,0,Efectivo
+80,21631,21999,Efectivo
+81,21632,63000,"Mercado Libre"
+82,21633,48450,"Mercado Libre"
+83,21634,75000,"Transferencia Bancaria"
+84,21635,200000,Mercadopago
+85,21636,30281,"Mercado Libre"
+86,21637,3979,"Mercado Libre"
+87,21638,66700,Tarjeta
+88,21639,0,Efectivo
+89,21640,2530,Mercadopago
+90,21641,181300,"Contra Entrega"
+91,21642,4198,"Mercado Libre"
+92,21643,67190,Tarjeta
+93,21643,3000,"Contra Entrega"
+94,21644,11102,"Mercado Libre"
+95,21645,158145,Efectivo
+96,21646,11102,"Mercado Libre"
+97,21648,4200,"Mercado Libre"
+98,21649,28663,"Mercado Libre"
+99,21650,34500,"Mercado Libre"
+100,21651,30281,"Mercado Libre"
+101,21652,211500,Efectivo
+102,21653,9800,Efectivo
+103,21654,482989,"Contra Entrega"
+104,21655,35000,"Mercado Libre"
+105,21656,10962,"Mercado Libre"
+106,21657,25465,"Mercado Libre"
+107,21658,189065,"Mercado Libre"
+108,21659,26663,"Mercado Libre"
+109,21660,144000,Tarjeta
+110,21661,48500,Efectivo
+111,21663,237,"Transferencia Bancaria"
+112,21664,204999,"Contra Entrega"
+113,21665,25465,"Mercado Libre"
+114,21666,65270,"Mercado Libre"
+115,21667,25465,"Mercado Libre"
+116,21668,9800,"Mercado Libre"
+117,21669,59552,Tarjeta
+118,21670,199999,Mercadopago
+119,21672,11400,"Mercado Libre"
+120,21673,180590,"Contra Entrega"
+121,21674,188500,"Transferencia Bancaria"
+122,21675,153360,"Mercado Libre"
+123,21676,4207,"Mercado Libre"
+124,21677,4044,"Mercado Libre"
+125,21678,216315,"Mercado Libre"
+126,21679,4530,"Mercado Libre"
+127,21680,25465,"Mercado Libre"
+128,21681,131500,ECheck
+129,21682,12500,Tarjeta
+130,21683,22000,"Mercado Libre"
+131,21684,199999,"Transferencia Bancaria"
+132,21684,7000,"Contra Entrega"
+133,21685,48990,"Mercado Libre"
+134,21686,188475,Efectivo
+135,21687,171428,Efectivo
+136,21688,0,Adelanto
+137,21688,660000,Efectivo
+138,21689,772500,"Contra Entrega"
+139,21690,200000,Efectivo
+140,21691,477988,"Transferencia Bancaria"
+141,21692,142215,"Contra Entrega"
+142,21693,250000,"Transferencia Bancaria"
+143,21694,200000,Efectivo
+144,21695,0,Cheque
+145,21696,279000,Efectivo
+146,21697,4044,"Mercado Libre"
+147,21698,37500,Efectivo
+148,21698,39675,Tarjeta
+149,21699,147300,"Mercado Libre"
+150,21699,5000,"Contra Entrega"
+151,21700,161904,"Contra Entrega"
+152,21701,211,"Contra Entrega"
+153,21702,10000,"Transferencia Bancaria"
+154,21702,233000,Efectivo
+155,21703,4000,Efectivo
+156,21704,6600,Efectivo
+157,21706,0,Efectivo
+158,21707,19000,Efectivo
+159,21708,65270,"Mercado Libre"
+160,21709,48450,"Mercado Libre"
+161,21710,48450,"Mercado Libre"
+162,21711,164390,"Mercado Libre"
+163,21712,48450,"Mercado Libre"
+164,21713,22000,"Mercado Libre"
+165,21714,36398,"Mercado Libre"
+166,21715,477989,"Contra Entrega"
+167,21716,169834,"Mercado Libre"
+168,21716,4000,"Contra Entrega"
+169,21717,0,"Transferencia Bancaria"
+170,21718,0,Efectivo
+171,21719,0,Financiado
+172,21720,517925,"Contra Entrega"
+173,21721,87180,Efectivo
+174,21722,520000,Mercadopago
+175,21723,209.999,"Transferencia Bancaria"
+176,21724,0,Efectivo
+177,21725,280000,Mercadopago
+178,21726,1,Efectivo
+179,21727,180762,"Transferencia Bancaria"
+180,21727,4500,"Transferencia Bancaria"
+181,21728,152145,Efectivo
+182,21729,170500,"Transferencia Bancaria"
+183,21730,117450,Efectivo
+184,21731,0,Efectivo
+185,21732,200000,Mercadopago
+186,21733,4198,"Mercado Libre"
+187,21734,36398,"Mercado Libre"
+188,21735,66960,Efectivo
+189,21736,101100,"Mercado Libre"
+190,21737,29999,"Mercado Libre"
+191,21738,8675,"Mercado Libre"
+192,21739,8675,"Mercado Libre"
+193,21740,27999,"Mercado Libre"
+194,21741,9800,"Mercado Libre"
+195,21742,152145,"Transferencia Bancaria"
+196,21743,18000,Efectivo
+197,21744,137998,"Mercado Libre"
+198,21745,20000,"Transferencia Bancaria"
+199,21745,186000,Efectivo
+200,21746,468619,"Transferencia Bancaria"
+201,21748,4198,"Mercado Libre"
+202,21749,28300,"Mercado Libre"
+203,21750,308588,Efectivo
+204,21750,5000,Efectivo
+205,21751,17238,Cheque
+206,21752,50000,Tarjeta
+207,21752,51400,Efectivo
+208,21753,164000,"Transferencia Bancaria"
+209,21754,304290,ECheck
+210,21755,0,"Contra Entrega"
+211,21756,204600,"Contra Entrega"
+212,21757,0,Efectivo
+213,21759,94800,"Contra Entrega"
+214,21760,1267260,Cheque
+215,21761,204600,"Contra Entrega"
+216,21762,62060,Financiado
+217,21763,53000,Efectivo
+218,21764,39300,"Mercado Libre"
+219,21765,137300,Tarjeta
+220,21765,2500,"Contra Entrega"
+221,21766,2000,"Mercado Libre"
+222,21767,28663,"Mercado Libre"
+223,21768,18230,Tarjeta
+224,21769,23372,"Mercado Libre"
+225,21770,30400,Tarjeta
+226,21771,37438,"Mercado Libre"
+227,21772,22000,"Mercado Libre"
+228,21773,292550,"Contra Entrega"
+229,21773,3000,Efectivo
+230,21774,22000,"Mercado Libre"
+231,21775,180560,"Mercado Libre"
+232,21776,25465,Efectivo
+233,21777,30281,"Mercado Libre"
+234,21778,3396,"Mercado Libre"
+235,21779,22000,"Mercado Libre"
+236,21780,180.075,Efectivo
+237,21781,61820,"Mercado Libre"
+238,21781,7220,"Contra Entrega"
+239,21782,6201,"Mercado Libre"
+240,21783,6200,"Mercado Libre"
+241,21784,6200,"Mercado Libre"
+242,21785,54500,"Transferencia Bancaria"
+243,21786,30281,"Mercado Libre"
+244,21787,115000,"Transferencia Bancaria"
+245,21789,44000,"Mercado Libre"
+246,21791,19000,Efectivo
+247,21792,0,Efectivo
+248,21793,0,Efectivo
+249,21794,28300,"Mercado Libre"
+250,21795,210000,Efectivo
+251,21796,180075,Efectivo
+252,21797,8000,Efectivo
+253,21798,200000,Efectivo
+254,21799,960300,Cheque
+255,21800,200000,"Transferencia Bancaria"
+256,21801,193,"Contra Entrega"
+317,21862,42875,Efectivo
+318,21863,6200,"Mercado Libre"
+319,21864,11400,"Mercado Libre"
+320,21865,17197,"Mercado Libre"
+321,21866,16795,"Mercado Libre"
+322,21867,36398,"Mercado Libre"
+323,21868,22000,"Mercado Libre"
+324,21869,0,"Contra Entrega"
+325,21871,9800,"Mercado Libre"
+326,21872,5500,Efectivo
+327,21873,30200,"Mercado Libre"
+328,21874,270200,"Contra Entrega"
+329,21875,24999,"Mercado Libre"
+330,21876,4198,"Mercado Libre"
+331,21877,25465,"Mercado Libre"
+332,21878,89800,Efectivo
+333,21879,22800,Efectivo
+334,21889,130000,Efectivo
+335,21890,101000,"Mercado Libre"
+336,21891,620093,ECheck
+337,21892,234995,"Mercado Libre"
+338,21893,18476,ECheck
+339,21894,50000,Efectivo
+340,21894,100000,Mercadopago
+341,21894,59000,Tarjeta
+342,21895,0,"Mercado Libre"
+343,21897,26600,Efectivo
+344,21898,99999,"Transferencia Bancaria"
+345,21898,1300000,Efectivo
+346,21899,100000,"Transferencia Bancaria"
+347,21899,91500,"Contra Entrega"
+348,21900,43000,Mercadopago
+349,21901,214,"Transferencia Bancaria"
+350,21902,144300,Mercadopago
+351,21902,5000,"Contra Entrega"
+352,21903,17197,"Mercado Libre"
+353,21904,4198,"Mercado Libre"
+354,21905,36398,"Mercado Libre"
+355,21906,36398,"Mercado Libre"
+356,21907,36398,"Mercado Libre"
+357,21908,4198,"Mercado Libre"
+358,21909,23800,"Mercado Libre"
+359,21910,37438,"Mercado Libre"
+360,21911,58000,Tarjeta
+361,21912,257000,"Mercado Libre"
+362,21913,24576,"Mercado Libre"
+363,21914,90000,"Transferencia Bancaria"
+364,21915,115500,Efectivo
+365,21916,26600,Mercadopago
+366,21917,234995,"Mercado Libre"
+367,21918,972006,"Transferencia Bancaria"
+368,21919,20000,Efectivo
+369,21920,96140,"Mercado Libre"
+370,21921,138300,Efectivo
+371,21922,11000,"Transferencia Bancaria"
+372,21924,194900,"Contra Entrega"
+373,21924,3000,"Contra Entrega"
+374,21926,1000,Dolares
+375,21927,0,Cheque
+376,21928,0,Cheque
+377,21929,389480,Tarjeta
+378,21930,145200,"Transferencia Bancaria"
+379,21931,4530,"Mercado Libre"
+380,21932,32060,"Mercado Libre"
+381,21933,21800,Efectivo
+382,21934,28663,"Mercado Libre"
+383,21936,43100,Mercadopago
+384,21937,5200,Efectivo
+385,21938,41600,Efectivo
+386,21939,219999,Efectivo
+387,21939,6000,Efectivo
+388,21940,15000,Efectivo
+389,21941,0,Mercadopago
+390,21942,4200,"Mercado Libre"
+391,21943,8398,"Mercado Libre"
+392,21944,44000,"Mercado Libre"
+393,21945,0,"Mercado Libre"
+394,21946,221000,"Contra Entrega"
+395,21947,55200,"Mercado Libre"
+396,21948,191500,"Contra Entrega"
+397,21949,176175,Tarjeta
+398,21950,241000,Efectivo
+399,21951,8760,Tarjeta
+400,21953,22000,"Mercado Libre"
+401,21954,50000,Tarjeta
+402,21955,100000,Efectivo
+403,21955,207480,Tarjeta
+404,21956,101400,"Transferencia Bancaria"
+405,21957,25600,Efectivo
+406,21958,945,Mercadopago
+407,21958,93600,Efectivo
+408,21959,113300,Efectivo
+409,21961,44100,"Mercado Libre"
+410,21962,28663,"Mercado Libre"
+411,21963,11129,"Mercado Libre"
+412,21964,30400,"Mercado Libre"
+413,21965,22000,"Mercado Libre"
+414,21966,0,Efectivo
+415,21967,294545,Efectivo
+416,21968,82800,"Mercado Libre"
+417,21969,28663,"Mercado Libre"
+418,21970,45300,"Mercado Libre"
+419,21971,7596,"Mercado Libre"
+420,21972,18000,"Mercado Libre"
+421,21973,605,Cheque
+422,21974,282521,"Transferencia Bancaria"
+423,21975,126.5,Cheque
+424,21976,58400,"Mercado Libre"
+425,21977,25170,"Mercado Libre"
+426,21978,0,"Transferencia Bancaria"
+427,21979,22000,"Mercado Libre"
+428,21980,204.695,Efectivo
+429,21981,196680,"Transferencia Bancaria"
+430,21982,53850,Efectivo
+431,21983,22800,Efectivo
+432,21984,214000,Efectivo
+433,21985,24750,Cheque
+434,21986,6000,Tarjeta
+435,21987,9800,"Mercado Libre"
+436,21988,0,Efectivo
+437,21989,313588,"Contra Entrega"
+438,21990,26484,"Mercado Libre"
+439,21991,50000,Efectivo
+440,21991,16400,Mercadopago
+441,21992,4587,"Mercado Libre"
+442,21993,0,Efectivo
+443,21994,500000,Tarjeta
+444,21994,153180,Efectivo
+445,21995,24200,"Mercado Libre"
+446,21996,13000,Efectivo
+447,21997,28500,Tarjeta
+448,21997,28500,Tarjeta
+449,21998,255305,"Contra Entrega"
+450,21999,4198,"Mercado Libre"
+451,22000,28500,Tarjeta
+452,22001,67099,"Transferencia Bancaria"
+453,22002,5230,Efectivo
+454,22003,661950,ECheck
+455,22004,57800,"Mercado Libre"
+456,22005,220999,"Contra Entrega"
+457,22006,193000,Tarjeta
+458,22009,420000,Efectivo
+459,22010,47300,"Transferencia Bancaria"
+460,22011,28663,"Mercado Libre"
+461,22012,28663,"Mercado Libre"
+462,22013,28663,"Mercado Libre"
+463,22014,130000,"Mercado Libre"
+464,22015,101000,"Mercado Libre"
+465,22016,46302,"Mercado Libre"
+466,22017,28663,"Mercado Libre"
+467,22018,26969,"Mercado Libre"
+468,22019,115500,Efectivo
+469,22020,28663,"Mercado Libre"
+470,22021,28663,"Mercado Libre"
+471,22022,11062,"Mercado Libre"
+472,22023,0,Efectivo
+473,22024,0,"Transferencia Bancaria"
+474,22025,186500,"Mercado Libre"
+475,22026,8000,Efectivo
+476,22027,585000,Cheque
+477,22028,19200,Efectivo
+478,22029,60000,Efectivo
+479,22030,3000,Efectivo
+480,22031,25000,Efectivo
+481,22031,2360,Mercadopago
+482,22032,0,Cheque
+483,22033,312.5,"Transferencia Bancaria"
+484,22033,4000,Efectivo
+485,22035,9911,"Mercado Libre"
+486,22036,28663,"Mercado Libre"
+487,22037,669000,Cheque
+488,22038,9911,"Mercado Libre"
+489,22039,28663,"Mercado Libre"
+490,22040,23151,"Mercado Libre"
+491,22041,190000,Efectivo
+492,22041,11695,Mercadopago
+493,22042,140600,"Transferencia Bancaria"
+494,22043,154917,"Mercado Libre"
+495,22046,43050,"Mercado Libre"
+496,22047,28663,"Mercado Libre"
+497,22048,26969,"Mercado Libre"
+498,22049,28663,"Mercado Libre"
+499,22050,28663,"Mercado Libre"
+500,22051,355400,Efectivo
+501,22052,669000,Cheque
+502,22053,5000,Mercadopago
+503,22054,260700,"Contra Entrega"
+504,22055,305600,"Mercado Libre"
+505,22055,5000,"Contra Entrega"
+506,22056,137300,"Contra Entrega"
+507,22056,3000,"Contra Entrega"
+508,22057,165000,ECheck
+509,22058,200,Dolares
+510,22059,28663,"Mercado Libre"
+511,22060,28663,"Mercado Libre"
+512,22061,23151,"Mercado Libre"
+513,22062,0,Mercadopago
+514,22063,28663,"Mercado Libre"
+515,22064,28663,"Mercado Libre"
+516,22065,10120,Efectivo
+517,22066,221000,"Contra Entrega"
+518,22067,0,Efectivo
+519,22068,28440,Tarjeta
+520,22069,262500,Mercadopago
+521,22070,146055,"Mercado Libre"
+522,22070,6000,"Contra Entrega"
+523,22071,2079000,"Contra Entrega"
+524,22072,0,Cheque
+525,22073,0,Efectivo
+526,22074,192600,Efectivo
+527,22075,425063,Efectivo
+528,22076,295000,"Contra Entrega"
+529,22077,28663,"Mercado Libre"
+530,22078,164900,"Transferencia Bancaria"
+531,22079,27000,Efectivo
+532,22080,313600,"Mercado Libre"
+533,22081,214000,Efectivo
+534,22082,30720,Tarjeta
+535,22083,10400,Efectivo
+536,22084,853,"Transferencia Bancaria"
+537,22085,715981,Efectivo
+538,22085,715981,Cheque
+539,22086,161000,Efectivo
+540,22087,23151,"Mercado Libre"
+541,22088,0,Cheque
+542,22089,25080,Efectivo
+543,22090,185900,"Transferencia Bancaria"
+544,22091,28663,"Mercado Libre"
+545,22092,28663,"Mercado Libre"
+546,22093,28663,"Mercado Libre"
+547,22094,24576,"Mercado Libre"
+548,22095,13600,"Mercado Libre"
+549,22096,28663,"Mercado Libre"
+550,22097,765000,"Transferencia Bancaria"
+551,22098,346500,"Transferencia Bancaria"
+552,22098,6500,"Contra Entrega"
+553,22099,30720,Mercadopago
+554,22100,255300,"Contra Entrega"
+555,22102,114354,"Mercado Libre"
+556,22103,221000,Efectivo
+557,22104,0,Efectivo
+558,22105,709734,Efectivo
+559,22106,0,Efectivo
+560,22108,28663,"Mercado Libre"
+561,22109,2074000,"Transferencia Bancaria"
+562,22109,6000,"Contra Entrega"
+563,22110,0,Efectivo
+564,22111,30720,Efectivo
+565,22112,79000,"Mercado Libre"
+566,22112,7000,"Mercado Libre"
+567,22113,1,Efectivo
+568,22114,5548,Efectivo
+569,22115,0,Efectivo
+570,22116,290363,"Contra Entrega"
+571,22117,0,Efectivo
+572,22118,0,Efectivo
+573,22118,0,Efectivo
+574,22119,39000,Tarjeta
+575,22120,186500,"Mercado Libre"
+576,22120,6000,"Contra Entrega"
+577,22121,0,Efectivo
+578,22121,0,Efectivo
+579,22122,28663,"Mercado Libre"
+580,22123,3833,"Mercado Libre"
+581,22124,28663,"Mercado Libre"
+582,22125,173250,"Transferencia Bancaria"
+583,22126,44100,"Mercado Libre"
+584,22127,3833,"Mercado Libre"
+585,22128,3833,"Mercado Libre"
+586,22129,9137,"Mercado Libre"
+587,22130,504000,Efectivo
+588,22131,179000,Tarjeta
+589,22131,2500,Efectivo
+590,22132,3833,"Mercado Libre"
+591,22133,300000,"Transferencia Bancaria"
+592,22134,11094,"Mercado Libre"
+593,22135,308588,Tarjeta
+594,22136,46200,"Mercado Libre"
+595,22137,312500,"Mercado Libre"
+596,22138,59940,Efectivo
+597,22139,59400,"Mercado Libre"
+598,22140,541,Dolares
+599,22141,90000,Efectivo
+600,22141,104680,Mercadopago
+601,22143,940000,"Contra Entrega"
+602,22143,38000,Efectivo
+603,22144,25080,Efectivo
+604,22145,3833,"Mercado Libre"
+605,22146,29200,"Mercado Libre"
+606,22150,28663,"Mercado Libre"
+607,22151,9137,"Mercado Libre"
+608,22152,329800,ECheck
+609,22153,219,"Contra Entrega"
+610,22154,6000,Efectivo
+611,22155,229999,"Contra Entrega"
+612,22156,5300,Efectivo
+613,22157,24000,Efectivo
+614,22158,68175,Tarjeta
+615,22159,0,Efectivo
+616,22160,350800,Efectivo
+617,22161,389,"Contra Entrega"
+618,22162,210200,Efectivo
+619,22162,5500,"Contra Entrega"
+620,22163,225000,Efectivo
+621,22164,150000,Tarjeta
+622,22165,39000,"Mercado Libre"
+623,22166,40862,"Mercado Libre"
+624,22167,23151,"Mercado Libre"
+625,22168,28663,"Mercado Libre"
+626,22169,197.68,Efectivo
+627,22170,40500,"Mercado Libre"
+628,22171,28663,"Mercado Libre"
+629,22172,57387,Mercadopago
+630,22173,33393,"Mercado Libre"
+631,22174,151000,Efectivo
+632,22175,28663,"Mercado Libre"
+633,22176,2000,"Mercado Libre"
+634,22177,0,Efectivo
+635,22178,29900,"Mercado Libre"
+636,22179,7669,"Mercado Libre"
+637,22180,175440,"Mercado Libre"
+638,22181,28663,"Mercado Libre"
+639,22182,127000,Cheque
+640,22183,6528,Mercadopago
+641,22184,112000,Cheque
+642,22186,171625,Tarjeta
+643,22188,65270,"Mercado Libre"
+644,22189,134400,ECheck
+645,22190,2600,Efectivo
+646,22191,231601,Tarjeta
+647,22192,196534,Mercadopago
+648,22192,3000,Efectivo
+649,22193,0,Cheque
+650,22200,147000,Efectivo
+651,22201,122000,Efectivo
+652,22202,228300,"Mercado Libre"
+653,22203,51800,Efectivo
+654,22204,28560,"Mercado Libre"
+655,22205,3833,"Mercado Libre"
+656,22206,22300,Efectivo
+657,22207,450,Efectivo
+658,22208,28663,"Mercado Libre"
+659,22209,29900,"Mercado Libre"
+660,22210,11094,"Mercado Libre"
+661,22211,28663,"Mercado Libre"
+662,22212,28560,"Mercado Libre"
+663,22213,195000,Efectivo
+664,22213,3000,Efectivo
+665,22214,28663,"Mercado Libre"
+666,22215,28560,"Mercado Libre"
+667,22216,25350,"Mercado Libre"
+668,22217,28560,"Mercado Libre"
+669,22218,23151,"Mercado Libre"
+670,22219,28663,"Mercado Libre"
+671,22220,382.14,Tarjeta
+672,22221,23151,"Mercado Libre"
+673,22222,37263,"Mercado Libre"
+674,22223,72000,"Mercado Libre"
+675,22224,219000,"Contra Entrega"
+676,22225,218800,Tarjeta
+677,22226,309570,"Contra Entrega"
+678,22227,7667,"Mercado Libre"
+679,22228,103400,Tarjeta
+680,22228,103400,Tarjeta
+681,22229,149285,"Contra Entrega"
+682,22230,213900,Efectivo
+683,22231,254.3,"Contra Entrega"
+684,22232,37263,"Mercado Libre"
+685,22233,37263,"Mercado Libre"
+686,22234,7667,"Mercado Libre"
+687,22235,312.9,"Contra Entrega"
+688,22237,212900,"Mercado Libre"
+689,22237,8000,"Contra Entrega"
+690,22238,4000,"Contra Entrega"
+691,22238,170000,"Contra Entrega"
+692,22239,0,Tarjeta
+693,22240,46302,"Mercado Libre"
+694,22243,0,Cheque
+695,22244,0,Efectivo
+696,22245,10100,Mercadopago
+697,22246,25350,"Mercado Libre"
+698,22247,0,Efectivo
+699,22248,3.833,"Mercado Libre"
+700,22249,25350,"Mercado Libre"
+701,22250,3833,"Mercado Libre"
+702,22251,37263,"Mercado Libre"
+703,22252,37263,"Mercado Libre"
+704,22253,200000,Efectivo
+705,22254,72000,"Mercado Libre"
+706,22255,37560,Efectivo
+707,22256,0,Efectivo
+708,22257,194700,ECheck
+709,22257,3650,Efectivo
+710,22258,164900,Efectivo
+711,22258,3000,Efectivo
+712,22259,25350,"Mercado Libre"
+713,22260,678500,Cheque
+714,22261,436,"Contra Entrega"
+715,22262,64300,Mercadopago
+716,22263,9137,"Mercado Libre"
+717,22264,60000,Efectivo
+718,22265,0,Efectivo
+719,22266,281000,"Contra Entrega"
+720,22266,562000,Cheque
+721,22267,6500,Efectivo
+722,22268,7000,Efectivo
+723,22269,48000,"Mercado Libre"
+724,22271,76250,"Mercado Libre"
+725,22272,100000,Efectivo
+726,22272,2000,"Contra Entrega"
+727,22272,114000,Cheque
+728,22273,0,Efectivo
+729,22273,0,Efectivo
+730,22274,0,Efectivo
+731,22275,42211,"Mercado Libre"
+732,22276,872000,Cheque
+733,22277,0,Efectivo
+734,22278,28141,"Transferencia Bancaria"
+735,22279,18162,"Mercado Libre"
+736,22280,3834,"Mercado Libre"
+737,22281,150000,Efectivo
+738,22282,23151,"Mercado Libre"
+739,22283,3833,"Mercado Libre"
+740,22284,32060,"Mercado Libre"
+741,22285,3833,"Mercado Libre"
+742,22286,18162,"Mercado Libre"
+743,22287,0,Efectivo
+744,22288,200000,"Contra Entrega"
+745,22289,200945,"Mercado Libre"
+746,22290,196.6,"Contra Entrega"
+747,22291,220,"Contra Entrega"
+748,22292,313666,Efectivo
+749,22292,627334,Cheque
+750,22293,23350,"Mercado Libre"
+751,22294,77500,Tarjeta
+752,22295,0,Efectivo
+753,22305,40,Financiado
+754,22306,4308,"Mercado Libre"
+755,22307,498000,Efectivo
+756,22308,170900,Efectivo
+757,22309,217000,Cheque
+758,22310,193000,"Contra Entrega"
+759,22310,4000,"Contra Entrega"
+760,22311,300000,"Transferencia Bancaria"
+761,22312,18162,"Mercado Libre"
+762,22313,28000,Efectivo
+763,22314,61200,"Mercado Libre"
+764,22314,8000,"Contra Entrega"
+765,22315,61200,"Mercado Libre"
+766,22315,8000,"Contra Entrega"
+767,22316,25000,"Transferencia Bancaria"
+768,22317,20,"Transferencia Bancaria"
+769,22318,172000,Cheque
+770,22319,3833,"Mercado Libre"
+771,22320,3833,"Mercado Libre"
+772,22321,564136,"Transferencia Bancaria"
+773,22321,4263,Efectivo
+774,22322,41580,"Mercado Libre"
+775,22323,41580,"Mercado Libre"
+776,22324,24408,"Mercado Libre"
+777,22325,23151,"Mercado Libre"
+778,22326,0,Efectivo
+779,22327,0,Efectivo
+780,22328,5500,Efectivo
+781,22329,59870,Efectivo
+782,22330,172000,Cheque
+783,22331,496500,ECheck
+784,22332,17500,"Mercado Libre"
+785,22333,3833,"Mercado Libre"
+786,22334,119000,Efectivo
+787,22335,221000,Efectivo
+788,22336,0,Efectivo
+789,22337,0,Efectivo
+790,22338,199.6,"Transferencia Bancaria"
+791,22339,0,Efectivo
+792,22340,820000,"Transferencia Bancaria"
+793,22340,820000,"Transferencia Bancaria"
+794,22341,100000,Efectivo
+795,22342,0,Efectivo
+796,22343,0,Efectivo
+797,22344,96000,Cheque
+798,22345,121350,"Mercado Libre"
+799,22346,9900,Efectivo
+800,22347,356,"Contra Entrega"
+801,22348,47817,"Mercado Libre"
+802,22349,54720,Tarjeta
+803,22350,1180000,Efectivo
+804,22352,180000,"Mercado Libre"
+805,22353,7340,Efectivo
+806,22354,9843,"Mercado Libre"
+807,22355,0,Efectivo
+808,22356,7300,Efectivo
+809,22357,3833,"Mercado Libre"
+810,22358,219,"Contra Entrega"
+811,22359,151.5,"Transferencia Bancaria"
+812,22360,170000,Cheque
+813,22361,1600,Efectivo
+814,22362,0,Efectivo
+815,22363,0,Efectivo
+816,22364,11094,"Mercado Libre"
+817,22365,0,Efectivo
+818,22366,3833,"Mercado Libre"
+819,22367,32000,Efectivo
+820,22368,400,Efectivo
+821,22369,120000,Efectivo
+822,22370,382900,Efectivo
+823,22371,88000,Efectivo
+824,22372,5000,Efectivo
+825,22372,143000,"Contra Entrega"
+831,22378,700,Dolares
+869,22416,24576,"Mercado Libre"
+870,22417,23350,"Mercado Libre"
+871,22418,15338,"Mercado Libre"
+872,22419,30281,"Mercado Libre"
+873,22420,101000,Efectivo
+874,22421,47817,"Mercado Libre"
+875,22422,221,"Contra Entrega"
+876,22423,34000,"Mercado Libre"
+877,22424,34000,"Mercado Libre"
+878,22425,48000,"Mercado Libre"
+879,22426,70000,Tarjeta
+880,22426,111045,Tarjeta
+881,22427,193151,"Mercado Libre"
+882,22427,7000,"Contra Entrega"
+883,22428,180000,"Mercado Libre"
+884,22429,511000,Efectivo
+885,22430,12240,"Mercado Libre"
+886,22431,175921,"Mercado Libre"
+887,22432,137300,Mercadopago
+888,22433,515500,Efectivo
+889,22434,0,Efectivo
+890,22436,37000,Efectivo
+891,22437,13298,"Mercado Libre"
+892,22438,9695,"Mercado Libre"
+893,22439,3200,Efectivo
+894,22440,56420,Efectivo
+895,22441,121350,"Mercado Libre"
+896,22442,5077,"Mercado Libre"
+897,22443,214000,Efectivo
+898,22444,312000,Efectivo
+899,22445,0,Efectivo
+900,22446,310000,"Mercado Libre"
+901,22447,382676,Efectivo
+902,22448,0,Cheque
+903,22449,698.8,"Contra Entrega"
+904,22450,16500,"Mercado Libre"
+905,22451,17500,"Mercado Libre"
+906,22456,5800,Efectivo
+907,22457,9999,Tarjeta
+908,22458,0,Efectivo
+909,22459,164900,"Contra Entrega"
+910,22459,3500,"Contra Entrega"
+911,22460,47817,"Mercado Libre"
+912,22461,396000,Efectivo
+913,22462,214000,Efectivo
+914,22463,504.6,Efectivo
+915,22464,991000,Cheque
+916,22465,201668,Mercadopago
+917,22465,9000,"Contra Entrega"
+918,22466,214000,"Contra Entrega"
+919,22467,1685000,ECheck
+920,22468,170000,Efectivo
+921,22468,200000,Mercadopago
+922,22469,394.375,"Transferencia Bancaria"
+923,22470,2360000,"Contra Entrega"
+924,22470,7000,"Contra Entrega"
+925,22471,4800,Efectivo
+926,22472,1646490,ECheck
+927,22473,0,Efectivo
+928,22474,0,Efectivo
+929,22475,0,Cheque
+930,22476,310569,"Contra Entrega"
+931,22477,46200,"Mercado Libre"
+932,22478,23151,"Mercado Libre"
+933,22479,1735000,"Transferencia Bancaria"
+934,22479,70000,"Contra Entrega"
+935,22480,118970,"Mercado Libre"
+936,22481,201695,"Contra Entrega"
+937,22482,249300,"Mercado Libre"
+938,22483,10800,"Mercado Libre"
+939,22484,33728,"Mercado Libre"
+940,22485,115829,"Mercado Libre"
+941,22486,91000,Efectivo
+942,22487,127900,"Contra Entrega"
+943,22488,523000,Efectivo
+944,22491,403685,Efectivo
+945,22491,3500,"Contra Entrega"
+946,22496,52380,Efectivo
+947,22497,106900,"Mercado Libre"
+948,22498,14182,"Mercado Libre"
+949,22499,3833,"Mercado Libre"
+950,22500,584.5,Efectivo
+951,22501,10000,Efectivo
+952,22508,458850,Tarjeta
+953,22508,7000,"Contra Entrega"
+954,22512,0,Efectivo
+955,22513,201600,"Transferencia Bancaria"
+956,22514,866000,"Contra Entrega"
+957,22515,196.6,"Contra Entrega"
+958,22516,249300,"Contra Entrega"
+959,22516,3000,"Contra Entrega"
+960,22517,1284800,Efectivo
+961,22518,9137,"Mercado Libre"
+962,22519,38000,"Mercado Libre"
+963,22520,0,Efectivo
+964,22521,0,Efectivo
+965,22522,1725400,"Transferencia Bancaria"
+966,22523,91000,Efectivo
+967,22523,3000,Efectivo
+968,22524,73.5,Tarjeta
+969,22525,201695,Efectivo
+970,22526,0,Efectivo
+971,22527,0,Efectivo
+972,22527,0,Efectivo
+973,22528,5940,Efectivo
+974,22529,11094,"Mercado Libre"
+975,22531,110000,Efectivo
+976,22531,54900,Mercadopago
+977,22531,3000,"Contra Entrega"
+978,22532,3834,"Mercado Libre"
+979,22533,3834,"Mercado Libre"
+980,22534,0,Efectivo
+981,22535,443.6,"Contra Entrega"
+982,22535,80000,Tarjeta
+983,22537,294000,Efectivo
+984,22538,2465240,ECheck
+985,22539,53000,Efectivo
+986,22540,55250,Tarjeta
+987,22541,421694,"Contra Entrega"
+988,22542,60,Dolares
+989,22542,11600,"Contra Entrega"
+990,22543,214000,"Contra Entrega"
+991,22543,3000,"Contra Entrega"
+992,22544,217000,Efectivo
+993,22545,653000,"Mercado Libre"
+994,22546,130550,Efectivo
+995,22547,0,Efectivo
+996,22548,145000,Efectivo
+997,22550,9137,"Mercado Libre"
+998,22551,9137,"Mercado Libre"
+999,22552,2538,"Mercado Libre"
+1000,22553,84000,Efectivo
+1001,22554,93000,"Contra Entrega"
+1002,22555,221000,"Contra Entrega"
+1003,22556,75600,Efectivo
+1004,22557,91000,"Contra Entrega"
+1005,22558,219000,"Contra Entrega"
+1006,22559,66600,Tarjeta
+1007,22560,155000,"Contra Entrega"
+1008,22561,3833,"Mercado Libre"
+1009,22562,30281,"Mercado Libre"
+1010,22563,45656,"Mercado Libre"
+1011,22563,12000,"Contra Entrega"
+1012,22564,2538,"Mercado Libre"
+1013,22565,147900,"Transferencia Bancaria"
+1014,22565,153900,"Contra Entrega"
+1015,22566,192680,"Contra Entrega"
+1016,22566,2000,"Contra Entrega"
+1017,22567,3833,"Mercado Libre"
+1018,22568,23151,"Mercado Libre"
+1019,22569,6637,"Mercado Libre"
+1020,22570,21150,Efectivo
+1021,22571,201.7,"Transferencia Bancaria"
+1022,22572,0,Cheque
+1023,22573,2200,"Contra Entrega"
+1024,22574,7667,"Mercado Libre"
+1025,22575,9137,"Mercado Libre"
+1026,22576,0,Efectivo
+1027,22577,500,Dolares
+1028,22578,46302,"Mercado Libre"
+1029,22579,39000,"Mercado Libre"
+1030,22580,27699,"Mercado Libre"
+1031,22581,24576,"Mercado Libre"
+1032,22582,27360,Tarjeta
+1033,22583,25249,Efectivo
+1034,22584,9137,"Mercado Libre"
+1035,22585,143451,"Mercado Libre"
+1036,22586,24576,"Mercado Libre"
+1037,22587,10000,Mercadopago
+1038,22587,890,"Transferencia Bancaria"
+1039,22588,30500,Tarjeta
+1040,22589,120000,Efectivo
+1041,22589,5000,"Contra Entrega"
+1042,22590,47500,"Contra Entrega"
+1043,22591,175000,"Contra Entrega"
+1044,22592,434000,"Contra Entrega"
+1045,22593,498000,"Transferencia Bancaria"
+1046,22594,482100,Mercadopago
+1047,22594,6000,Mercadopago
+1048,22595,151500,"Mercado Libre"
+1049,22596,285200,Tarjeta
+1050,22597,176900,Tarjeta
+1051,22598,57699,"Mercado Libre"
+1052,22599,1500,Tarjeta
+1053,22599,11200,Efectivo
+1054,22600,0,Efectivo
+1055,22601,17500,"Mercado Libre"
+1056,22602,3833,"Mercado Libre"
+1057,22603,7840,"Mercado Libre"
+1058,22604,222.47,"Transferencia Bancaria"
+1059,22605,200,Dolares
+1060,22606,71000,"Contra Entrega"
+1061,22606,3500,"Contra Entrega"
+1062,22607,186500,Mercadopago
+1063,22608,5940,Adelanto
+1064,22609,203000,"Contra Entrega"
+1065,22610,385000,"Contra Entrega"
+1066,22611,0,Efectivo
+1067,22612,3833,"Mercado Libre"
+1068,22613,127272,"Contra Entrega"
+1069,22614,120500,Efectivo
+1070,22614,0,Efectivo
+1071,22615,186500,"Transferencia Bancaria"
+1072,22616,100000,Tarjeta
+1073,22616,2000,"Contra Entrega"
+1074,22617,7200,Efectivo
+1075,22618,4000,Efectivo
+1076,22619,193400,"Transferencia Bancaria"
+1077,22620,142363,"Mercado Libre"
+1078,22621,56000,Efectivo
+1079,22622,24576,"Mercado Libre"
+1080,22623,0,Efectivo
+1081,22625,0,Efectivo
+1082,22626,50000,Mercadopago
+1083,22626,200000,"Contra Entrega"
+1084,22627,500000,ECheck
+1085,22628,0,Financiado
+1086,22629,0,Efectivo
+1087,22630,55000,Mercadopago
+1088,22631,187800,"Contra Entrega"
+1089,22632,30281,"Mercado Libre"
+1090,22633,9137,"Mercado Libre"
+1091,22634,0,Efectivo
+1092,22635,193151,"Mercado Libre"
+1093,22636,14888,Tarjeta
+1094,22637,39000,"Mercado Libre"
+1095,22638,3833,"Mercado Libre"
+1096,22639,50500,Tarjeta
+1097,22640,309000,"Mercado Libre"
+1098,22640,7000,Mercadopago
+1099,22641,193151,"Mercado Libre"
+1100,22642,278729,"Mercado Libre"
+1101,22643,220000,Efectivo
+1102,22644,165000,"Transferencia Bancaria"
+1103,22645,191800,"Transferencia Bancaria"
+1104,22646,510500,"Contra Entrega"
+1105,22647,91160,Tarjeta
+1106,22648,9250,Tarjeta
+1107,22648,50000,Efectivo
+1108,22649,40000,Tarjeta
+1109,22649,24999,Efectivo
+1110,22650,212466,"Mercado Libre"
+1111,22651,244.999,"Transferencia Bancaria"
+1112,22652,0,Cheque
+1113,22653,319400,"Mercado Libre"
+1114,22653,8000,Mercadopago
+1115,22654,0,Efectivo
+1116,22655,302500,"Transferencia Bancaria"
+1117,22656,0,Efectivo
+1118,22657,467600,"Contra Entrega"
+1119,22659,506600,"Contra Entrega"
+1120,22660,1500,Efectivo
+1121,22661,2538,"Mercado Libre"
+1122,22662,3833,"Mercado Libre"
+1123,22663,6637,"Mercado Libre"
+1124,22664,36000,"Mercado Libre"
+1125,22665,104148,"Mercado Libre"
+1126,22666,108148,"Mercado Libre"
+1127,22667,0,Efectivo
+1128,22668,3833,"Mercado Libre"
+1129,22669,40862,"Mercado Libre"
+1130,22671,32060,"Mercado Libre"
+1131,22672,10080,"Mercado Libre"
+1132,22673,39000,"Mercado Libre"
+1133,22674,310000,"Mercado Libre"
+1134,22675,60000,Efectivo
+1135,22676,2600,Efectivo
+1136,22677,0,Efectivo
+1137,22678,124000,Mercadopago
+1138,22678,3000,"Contra Entrega"
+1139,22679,122000,Mercadopago
+1140,22679,3000,"Contra Entrega"
+1141,22680,0,Efectivo
+1142,22681,249300,"Mercado Libre"
+1143,22682,108148,"Mercado Libre"
+1144,22683,91000,Efectivo
+1145,22684,124000,Efectivo
+1146,22685,258582,"Mercado Libre"
+1147,22686,19000,Tarjeta
+1148,22687,30281,"Mercado Libre"
+1149,22688,1111110000000,Efectivo
+1150,22689,46200,"Mercado Libre"
+1151,22690,33000,"Transferencia Bancaria"
+1152,22691,91000,"Contra Entrega"
+1153,22691,3000,"Contra Entrega"
+1154,22692,236000,Cheque
+1155,22693,570000,Cheque
+1156,22694,342000,Cheque
+1157,22695,143000,"Transferencia Bancaria"
+1158,22696,3666000,"Transferencia Bancaria"
+1159,22697,172900,"Contra Entrega"
+1160,22698,196.6,"Contra Entrega"
+1161,22699,7667,"Mercado Libre"
+1162,22700,116351,"Mercado Libre"
+1163,22701,39000,"Mercado Libre"
+1164,22702,137600,Efectivo
+1165,22703,18500,Efectivo
+1166,22704,50000,"Transferencia Bancaria"
+1167,22705,214000,Efectivo
+1168,22706,36000,"Mercado Libre"
+1169,22707,228000,"Contra Entrega"
+1170,22708,6160,Efectivo
+1171,22709,0,Financiado
+1172,22710,0,"Transferencia Bancaria"
+1173,22711,114292,"Mercado Libre"
+1174,22712,111111000000,Efectivo
+1175,22713,13508,"Mercado Libre"
+1176,22714,111169,"Mercado Libre"
+1177,22715,30200,"Mercado Libre"
+1178,22716,0,ECheck
+1179,22717,102374,"Mercado Libre"
+1180,22718,164900,Efectivo
+1181,22719,3700,Efectivo
+1182,22720,18000,Tarjeta
+1183,22721,0,Efectivo
+1184,22722,6720,"Mercado Libre"
+1185,22723,0,Cheque
+1186,22724,13508,"Mercado Libre"
+1187,22725,329400,"Transferencia Bancaria"
+1188,22726,182800,"Contra Entrega"
+1189,22727,186800,"Contra Entrega"
+1190,22728,114292,"Mercado Libre"
+1191,22729,200600,"Contra Entrega"
+1192,22730,0,Efectivo
+1193,22731,0,Efectivo
+1194,22732,45800,Mercadopago
+1195,22733,0,"Transferencia Bancaria"
+1196,22734,378900,"Transferencia Bancaria"
+1197,22734,7500,"Transferencia Bancaria"
+1198,22735,34000,"Mercado Libre"
+1199,22736,63500,Efectivo
+1200,22737,113222,"Mercado Libre"
+1201,22738,114292,"Mercado Libre"
+1202,22739,10000,Efectivo
+1203,22740,347723,"Mercado Libre"
+1204,22741,115638,"Mercado Libre"
+1205,22742,171900,"Transferencia Bancaria"
+1206,22743,91000,"Transferencia Bancaria"
+1207,22744,0,Cheque
+1208,22745,186800,Efectivo
+1209,22746,518.6,"Transferencia Bancaria"
+1210,22747,129700,"Contra Entrega"
+1211,22748,0,Efectivo
+1212,22749,0,Efectivo
+1213,22750,1500,Efectivo
+1214,22751,30150,Efectivo
+1215,22752,60000,Efectivo
+1216,22753,5200,Efectivo
+1217,22754,0,"Transferencia Bancaria"
+1218,22755,1600,Dolares
+1219,22755,23000,Efectivo
+1220,22756,22790,Efectivo
+1221,22756,4400,Dolares
+1222,22757,61209,"Mercado Libre"
+1223,22758,108541,Tarjeta
+1224,22759,12573,"Mercado Libre"
+1225,22760,0,Efectivo
+1226,22761,11500,"Mercado Libre"
+1227,22762,0,Cheque
+1228,22763,169000,"Contra Entrega"
+1229,22763,3500,"Contra Entrega"
+1230,22764,1333800,Efectivo
+1231,22765,5945,Tarjeta
+1232,22766,64,"Transferencia Bancaria"
+1233,22766,60,Tarjeta
+1234,22767,40000,Efectivo
+1235,22767,101600,"Contra Entrega"
+1236,22768,70783,"Contra Entrega"
+1237,22769,222559,Efectivo
+1238,22770,30200,"Mercado Libre"
+1239,22771,0,Efectivo
+1240,22772,4000,"Mercado Libre"
+1241,22773,42900,"Mercado Libre"
+1242,22774,10000,Efectivo
+1243,22775,4000,"Contra Entrega"
+1244,22775,91000,"Transferencia Bancaria"
+1245,22776,505600,Cheque
+1246,22777,23151,"Mercado Libre"
+1247,22778,20434,"Mercado Libre"
+1248,22779,13508,"Mercado Libre"
+1249,22780,42900,"Mercado Libre"
+1250,22781,83000,Cheque
+1251,22782,26000,"Mercado Libre"
+1252,22783,0,Efectivo
+1253,22784,31917,"Mercado Libre"
+1254,22785,18500,Efectivo
+1255,22786,92500,"Contra Entrega"
+1256,22787,13508,"Mercado Libre"
+1257,22788,76000,Efectivo
+1258,22789,10588,"Mercado Libre"
+1259,22790,11000,Tarjeta
+1260,22791,13508,"Mercado Libre"
+1261,22792,0,Efectivo
+1262,22793,224000,"Transferencia Bancaria"
+1263,22794,23925,Tarjeta
+1264,22795,0,Efectivo
+1265,22796,53.4,Tarjeta
+1266,22797,172000,"Contra Entrega"
+1267,22798,149812,"Contra Entrega"
+1268,22799,4198,"Mercado Libre"
+1269,22800,13000,Efectivo
+1270,22801,51047,Tarjeta
+1271,22802,4198,"Mercado Libre"
+1272,22803,189698,"Mercado Libre"
+1273,22804,10902,"Mercado Libre"
+1274,22805,91000,Mercadopago
+1275,22805,5500,"Contra Entrega"
+1276,22806,10902,"Mercado Libre"
+1277,22807,222550,"Transferencia Bancaria"
+1278,22808,65780,"Mercado Libre"
+1279,22809,47817,"Mercado Libre"
+1280,22810,230880,Efectivo
+1281,22811,0,Efectivo
+1282,22812,400800,Efectivo
+1283,22813,2966,"Mercado Libre"
+1284,22814,53400,Tarjeta
+1285,22814,0,Efectivo
+1286,22815,309.6,"Contra Entrega"
+1287,22816,44000,"Mercado Libre"
+1288,22817,0,"Contra Entrega"
+1289,22818,4198,"Mercado Libre"
+1290,22819,82500,Efectivo
+1291,22820,32060,"Mercado Libre"
+1292,22821,3600,Efectivo
+1293,22822,0,Efectivo
+1294,22823,479600,Mercadopago
+1295,22824,122000,"Contra Entrega"
+1296,22825,805000,Cheque
+1297,22826,6978340,ECheck
+1298,22827,28.3,Efectivo
+1299,22828,550000,"Mercado Libre"
+1300,22829,18400,"Mercado Libre"
+1301,22830,18400,"Mercado Libre"
+1302,22831,38200,Mercadopago
+1303,22832,203000,Tarjeta
+1304,22833,14837,"Mercado Libre"
+1305,22834,62500,Efectivo
+1306,22835,2916,"Mercado Libre"
+1307,22836,2916,"Mercado Libre"
+1308,22837,1450000,"Contra Entrega"
+1309,22838,811004,"Transferencia Bancaria"
+1310,22839,43356,Tarjeta
+1311,22840,0,Efectivo
+1312,22841,2916,"Mercado Libre"
+1313,22842,46852,"Mercado Libre"
+1314,22843,542500,Efectivo
+1315,22844,42125,Tarjeta
+1316,22845,58000,"Contra Entrega"
+1317,22846,0,Efectivo
+1318,22847,326000,"Contra Entrega"
+1319,22848,99000,Efectivo
+1320,22849,29200,Efectivo
+1321,22850,86000,"Contra Entrega"
+1322,22851,229600,"Contra Entrega"
+1323,22852,29200,Efectivo
+1324,22853,87207,"Mercado Libre"
+1325,22854,116225,"Mercado Libre"
+1326,22855,77000,Mercadopago
+1327,22856,39000,Efectivo
+1328,22857,102374,"Mercado Libre"
+1329,22858,111775,"Mercado Libre"
+1330,22859,101000,Mercadopago
+1331,22860,309050,"Contra Entrega"
+1332,22860,300950,Cheque
+1333,22861,127000,"Contra Entrega"
+1334,22862,130000,"Contra Entrega"
+1335,22863,0,Cheque
+1336,22864,147300,"Mercado Libre"
+1337,22865,165500,"Contra Entrega"
+1338,22868,88501,Efectivo
+1339,22869,395.7,"Contra Entrega"
+1340,22870,116228,"Mercado Libre"
+1341,22871,91000,Efectivo
+1342,22872,0,Financiado
+1343,22874,31000,Efectivo
+1344,22874,30000,Tarjeta
+1345,22875,0,Efectivo
+1346,22876,582770,Efectivo
+1347,22877,2,Efectivo
+1348,22878,0,Efectivo
+1349,22879,104650,Efectivo
+1350,22880,100000,Tarjeta
+1351,22880,154600,Efectivo
+1352,22880,3500,Efectivo
+1353,22881,119143,"Mercado Libre"
+1354,22882,4200,"Mercado Libre"
+1355,22883,116146,"Mercado Libre"
+1356,22884,11337,"Mercado Libre"
+1357,22885,14980,"Mercado Libre"
+1358,22886,3000,"Mercado Libre"
+1359,22887,880,Efectivo
+1360,22888,79404,"Mercado Libre"
+1361,22889,125645,"Mercado Libre"
+1362,22890,14656,"Mercado Libre"
+1363,22891,200300,"Contra Entrega"
+1364,22891,4500,"Contra Entrega"
+1365,22892,121202,"Mercado Libre"
+1366,22893,32097,"Mercado Libre"
+1367,22894,113596,"Mercado Libre"
+1368,22895,14656,"Mercado Libre"
+1369,22896,14656,"Mercado Libre"
+1370,22897,62000,"Mercado Libre"
+1371,22898,62000,"Mercado Libre"
+1372,22899,62000,"Mercado Libre"
+1373,22900,62000,"Mercado Libre"
+1374,22901,169200,Efectivo
+1375,22902,3445,"Mercado Libre"
+1376,22903,23000,"Mercado Libre"
+1377,22904,308125,Tarjeta
+1378,22905,59400,Cheque
+1379,22906,102374,"Mercado Libre"
+1380,22907,10300,Efectivo
+1381,22908,69960,"Mercado Libre"
+1382,22909,91000,"Contra Entrega"
+1383,22909,3000,"Contra Entrega"
+1384,22910,101530,Tarjeta
+1385,22911,176470,"Transferencia Bancaria"
+1386,22911,7500,"Transferencia Bancaria"
+1387,22912,3779,"Mercado Libre"
+1388,22913,2538,"Mercado Libre"
+1389,22914,10902,"Mercado Libre"
+1390,22915,8600,Tarjeta
+1391,22916,116535,"Mercado Libre"
+1392,22917,114000,Efectivo
+1393,22918,222600,"Contra Entrega"
+1394,22919,199456,"Mercado Libre"
+1395,22920,130000,"Contra Entrega"
+1396,22921,74000,Efectivo
+1397,22922,168000,"Mercado Libre"
+1398,22923,258000,"Contra Entrega"
+1399,22924,87000,"Contra Entrega"
+1400,22925,0,Efectivo
+1401,22926,206.3,"Contra Entrega"
+1402,22927,110000,Efectivo
+1403,22927,23805,Tarjeta
+1404,22928,21000,Mercadopago
+1405,22929,88500,Efectivo
+1406,22930,2300,Dolares
+1407,22930,14040,Efectivo
+1408,22931,1162000,"Mercado Libre"
+1409,22932,91000,Efectivo
+1410,22933,259318,"Transferencia Bancaria"
+1411,22934,227000,Efectivo
+1412,22935,32097,"Mercado Libre"
+1413,22936,39000,"Mercado Libre"
+1414,22937,16019,"Mercado Libre"
