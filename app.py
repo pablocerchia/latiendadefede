@@ -146,15 +146,8 @@ with tabs[0]:
         df2['fecha'] = pd.to_datetime(df2['fecha']) 
         df2['month'] = df2['fecha'].dt.strftime('%Y-%m')
 
-        df_groupedd = df2.groupby('month')['total'].sum().reset_index()  # Group by month and sum total_income
-        df_groupedd['variacion_ingreso'] = df_groupedd['total'].pct_change() * 100  # Calculate percentage change
-        fig_growth = px.bar(df_groupedd, x='month', y='variacion_ingreso', text_auto=True, labels={'month': 'Mes'},
-                    title='Variación mensual de los ingresos')
-
-        fig_growth.update_traces(textfont_size=24, textangle=0, textposition="outside", cliponaxis=False, hovertemplate='Mes: %{x}<br>Variación del ingreso (%): %{y:.2f}', texttemplate='%{y:.2f}')
-        fig_growth.update_xaxes(showgrid=False, ticklabelmode="period", dtick="M1", tickformat="%b\n%Y")
-        fig_growth.update_layout(bargap=0.1, xaxis_title='Fecha', yaxis_title='Variación del ingreso (%)')
-        st.plotly_chart(fig_growth)
+        df_groupedd = df2.groupby('month')['total'].sum().reset_index() 
+        df_groupedd['variacion_ingreso'] = df_groupedd['total'].pct_change() * 100 
 
         # Bar chart top 5 articulos
         df_top5_art = df_articulos2
